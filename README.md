@@ -2,7 +2,7 @@
 
 [VolgaCTF Final](https://github.com/VolgaCTF/volgactf-final) is an automatic checking system (ACS) for A/D CTF contests.
 
-This documents describes VolgaCTF Final public APIs, namely Capsule API and Flag API.
+This document describes VolgaCTF Final public APIs, namely Capsule API and Flag API.
 
 ## Prerequisites
 1. You should know an ACS IP address or FQDN. In this guide `10.0.0.2` will be used.
