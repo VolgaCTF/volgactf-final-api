@@ -1,9 +1,11 @@
-# Themis Finals API
+# VolgaCTF Final API
 
-This documents describes Themis Finals public APIs, namely Capsule API and Flag API.
+[VolgaCTF Final](https://github.com/VolgaCTF/volgactf-final) is an automatic checking system (ACS) for A/D CTF contests.
+
+This documents describes VolgaCTF Final public APIs, namely Capsule API and Flag API.
 
 ## Prerequisites
-1. You should know a contest checking system's IP address or FQDN. In this guide `10.0.0.2` will be used.
+1. You should know an ACS IP address or FQDN. In this guide `10.0.0.2` will be used.
 2. You should have a command-line utility capable of sending HTTP requests. For instance, [curl](http://curl.haxx.se) is a fine one.
 
 ## Capsule API
@@ -58,4 +60,4 @@ SUCCESS
 | 400 | ERROR_SERVICE_STATE_INVALID | The attacking team's service is not up |
 
 ## License
-MIT @ [Alexander Pyatkin](https://github.com/aspyatkin)
+MIT @ [VolgaCTF](https://github.com/VolgaCTF)
