@@ -88,5 +88,9 @@ SUCCESS
 | 400 | `ERROR_FLAG_NOT_FOUND` | The submitted flag does not exist |
 | 400 | `ERROR_SERVICE_STATE_INVALID` | The attacking team's service is not up |
 
+## Maintainers
+
+- [Aleksandr Piatkin](https://github.com/aspyatkin)
+
 ## License
 MIT @ [VolgaCTF](https://github.com/VolgaCTF)
